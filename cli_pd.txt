@@ -1,0 +1,33 @@
+Case: 2024-PI-001
+Query: PROPERTY DAMAGE Vehicle #1 repair estimate
+Top 3 sections:
+
+[1] Total Property Damage Settlement: $12,947.83 (source: insurance_correspondence.pdf)
+This settlement includes:
+Actual repair costs: $11,247.83
+Diminished value: $1,700.00
+Rental car (14 days): $420.00 (separate payment)
+Payment Method: Settlement check will be issued jointly to you and your lienholder (if applicable).
+Please provide your lienholder information if you have an outstanding loan.
+Rental Car: You are authorized for a mid-size rental vehicle while repairs are completed. We have a direct
+billing arrangement with Enterprise Rent-A-Car. Contact them at (555) 123-RENT and reference claim
+
+[2] Property Damage: $50,000 (source: insurance_correspondence.pdf)
+Policy Status: Active and in good standing at time of loss
+Next Steps:
+1. We will be contacting you to schedule an inspection of your vehicle
+2. Please obtain repair estimates from licensed auto body shops
+3. Forward all medical bills and records related to this accident
+4. Provide documentation of any lost wages
+Contact Information: Your assigned claims adjuster is Michael Rodriguez. He can be reached at:
+Phone: (800) 555-0199 ext. 3847
+Email: mrodriguez@abcinsurance.com
+Direct Line: (213) 555-7890
+We will work with you to resolve this claim promptly and fairly.
+Sincerely,
+Jennifer Walsh
+Clai...
+
+[3] FROM: Michael Rodriguez, Claims Adjuster (source: insurance_correspondence.pdf)
+RE: Vehicle Damage Settlement - Claim #ABC-2024-789456
+Dear Mr. Smith,

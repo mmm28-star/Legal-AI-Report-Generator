@@ -1,0 +1,87 @@
+Case: 2024-PI-001
+Query: TOTAL MEDICAL EXPENSES SUMMARY WAGE LOSS SUMMARY FUTURE WAGE IMPACT ANALYSIS TOTAL TIME OFF WORK
+Top 6 sections:
+
+[1] FROM: Michael Rodriguez, Claims Adjuster (source: insurance_correspondence.pdf)
+RE: Wage Loss Documentation - Claim #ABC-2024-789456
+Dear Mr. Smith,
+To properly evaluate your lost wage claim, we need the following documentation from your employer:
+Required Documentation:
+1. Employment Verification Letter confirming:
+Your position and hire date
+Regular hourly wage and overtime rate
+Normal work schedule and average hours worked
+Dates you were unable to work due to accident injuries
+2. Payroll Records showing:
+Pay stubs for 3 months prior to accident
+Pay stubs showing time missed after accident
+Any sick time or vacation time used
+3. Tax Documentation:
+W-2 forms for 2022 and ...
+
+[2] Total Time Off Work: 10.5 weeks (March 16 - May 15, 2024) (source: wage_statements_2024.pdf)
+Direct Wage Loss:
+March 16-31, 2024: $1,625.00 (2 weeks normal wages)
+April 1-30, 2024: $3,250.00 (4 weeks normal wages)
+May 1-15, 2024: $1,625.00 (2 weeks normal wages)
+Sick/Vacation Pay Used: $3,900.00 (exhausted all available)
+Net Lost Wages (unpaid): $2,600.00
+Reduced Earning Capacity (May 16 - June 30, 2024):
+Overtime Restrictions: $1,527.50
+Reduced Hours: $812.50
+Total Reduced Capacity Loss: $2,340.00
+
+[3] POST-ACCIDENT PERIOD (March 16 - June 30, 2024) (source: wage_statements_2024.pdf)
+March 16-31, 2024 (Unable to work - Workers' Comp not applicable for MVA)
+Regular Hours: 0.0 hours
+Overtime Hours: 0.0 hours
+Gross Pay: $0.00
+Sick Leave Used: 40.0 hours @ $32.50 = $1,300.00
+April 1-30, 2024 (Unable to work - Medical leave)
+Regular Hours: 0.0 hours
+Overtime Hours: 0.0 hours
+Gross Pay: $0.00
+Vacation Time Used: 80.0 hours @ $32.50 = $2,600.00
+May 1-15, 2024 (Unable to work - Unpaid leave)
+Regular Hours: 0.0 hours
+Overtime Hours: 0.0 hours
+Gross Pay: $0.00
+Lost Wages: $1,300.00 (40 hours @ $32.50)
+May 16-31, 2024 (Light duty return - Doctor's restrictions)
+Regular Hours: 60.0 ho...
+
+[4] FUTURE WAGE IMPACT ANALYSIS (source: wage_statements_2024.pdf)
+Ongoing Work Restrictions (per Dr. Jones):
+No lifting over 50 lbs (previous capacity: 100+ lbs)
+Cannot perform certain supervisory duties requiring heavy lifting
+Reduced overtime opportunities due to physical limitations
+Estimated future wage loss: $200-400 per month
+Career Impact: Prior to accident, Mr. Smith was being considered for promotion to Project Manager
+(salary: $95,000 annually). Due to physical restrictions, this promotion has been delayed indefinitely.
+Annual Earning Capacity:
+Pre-accident (2023): $84,500
+Post-accident (projected 2024): $78,000-80,000
+Annual Loss: $4,500-6,500
+
+[5] SUPPORTING DOCUMENTATION (source: wage_statements_2024.pdf)
+Attached Records:
+1. Payroll records (January - June 2024)
+2. Timecard records showing pre/post accident hours
+3. Medical leave documentation
+4. Doctor's work restriction letters
+5. Performance evaluations (2022-2023)
+6. Job description for Construction Supervisor position
+Verification: This wage loss verification has been prepared by Pacific Construction Company's Human
+Resources Department and reviewed by our certified payroll administrator.
+
+[6] BENEFITS IMPACT (source: wage_statements_2024.pdf)
+Health Insurance:
+Continued coverage during leave (company absorbed employee portion)
+Additional cost to company: $1,240 for 4 months
+Employee responsible for increased medical copays due to accident
+Retirement Contributions:
+401(k) Match Lost: $650 (company match on lost wages)
+Pension Accrual Reduced: Based on lower annual earnings
+Other Benefits Lost:
+Performance bonus eligibility reduced due to time off
+Safety bonus forfeited ($500 quarterly) due to accident involvement
